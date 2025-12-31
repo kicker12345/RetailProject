@@ -1,0 +1,1 @@
+Created a new project with the name RetailProject
